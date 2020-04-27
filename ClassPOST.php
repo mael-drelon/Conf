@@ -7,7 +7,7 @@
     <body>
         <form action="utilisateur.php" method="POST">
             <label >Identifiant</label>
-            <input type="text" name="nom_user">
+            <input type="text" name="user">
             <p></p>
             <label >MDP</label>
             <input type="password" name="mdp">
